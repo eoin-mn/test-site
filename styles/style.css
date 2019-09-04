@@ -1,0 +1,46 @@
+body  {
+     font-family: 'Lato', sans-serif; color: #272922
+}
+
+body {
+    font-family: sans-serif;
+  }
+  
+  
+
+
+  .title {
+    font-size: 3rem;
+  }
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px; 
+    color: #00539f;
+    text-shadow:  3px 3px 1px black;
+}
+
+ p, li {
+     font-size: 16px;
+     line-height: 2;
+     letter-spacing: 1px
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+body {
+    width: auto;
+    margin: 0 auto;
+    background-color: #c0fc0f;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+
+
+html {background-color: #c4dff8}
